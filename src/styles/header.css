@@ -1,0 +1,10 @@
+header {
+  color: whitesmoke;
+  height: 22vh;
+  font-size: 4rem;
+  display: flex;
+  padding-inline: 2rem;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: gray;
+}

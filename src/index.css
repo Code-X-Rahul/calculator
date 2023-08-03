@@ -1,0 +1,10 @@
+.dark--mode{
+  position: absolute;
+  right: 0.5rem;
+  padding: 0.2rem .3rem;
+  background: #000;
+  margin: 0.3rem;
+  border: 1px solid #000;
+  border-radius: 10px;
+  color: whitesmoke;
+}
